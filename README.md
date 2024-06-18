@@ -1,1 +1,2 @@
-# compressorAndDecrompessor
+# Compressor_Decompressor
+Minor Project
